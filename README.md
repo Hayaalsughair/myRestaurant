@@ -2,7 +2,7 @@
 > # PIZZA Station Restaurant :pizza:
 
 
->### 1 - Welcome Page:
+### 1 - Welcome Page:
 
 ![welcome page ](/imgs/welcome.jpeg)
 
