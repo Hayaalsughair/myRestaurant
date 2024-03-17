@@ -1,5 +1,7 @@
 # myRestaurant
 > # PIZZA Station Restaurant :pizza:
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ### 1 - Welcome Page :
 ![welcome page ](/imgs/welcome.jpeg)
