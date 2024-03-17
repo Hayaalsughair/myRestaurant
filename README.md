@@ -3,9 +3,8 @@
 
 
 >[!NOTE]
->Useful information that users should know, even when skimming content.
+>### 1 - Welcome Page:
 
-### 1 - Welcome Page :
 ![welcome page ](/imgs/welcome.jpeg)
 
 ### 2 - Sign in/Sign up :
